@@ -5,7 +5,7 @@
          version="5.0">
     <servlet>
         <servlet-name>Date</servlet-name>
-        <servlet-class>by.radevich.helloservlet.homework.helloservlethomework.DateExamption</servlet-class>
+        <servlet-class>by.radevich.helloservlet.homework.helloservlethomework.DateExemption</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Date</servlet-name>
